@@ -8,6 +8,6 @@
 	<link href="https://fonts.googleapis.com/css?family=Archivo+Black&display=swap" rel="stylesheet">
 </head>
 <body>
-	<h1>text</h1>
+	<h1 color="green">text</h1>
 </body>
 </html>
