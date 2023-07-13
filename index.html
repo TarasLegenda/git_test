@@ -5,8 +5,11 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>baba</title>
 	<link rel="stylesheet" href="css/style.css">
+	<link href="https://fonts.googleapis.com/css?family=Archivo+Black&display=swap" rel="stylesheet">
 </head>
 <body>
-	<a href="https://www.youtube.com/watch?v=HHhaoUAe1K8&list=PL0lO_mIqDDFUesRNkeg46TDd5I6r7p2PI&index=5">text</a>
+	<header>
+		<h1 class="gradient-text">fossheim.io</h1>
+	</header>
 </body>
 </html>
