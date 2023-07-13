@@ -8,8 +8,6 @@
 	<link href="https://fonts.googleapis.com/css?family=Archivo+Black&display=swap" rel="stylesheet">
 </head>
 <body>
-	<header>
-		<h1 class="gradient-text">fossheim.io</h1>
-	</header>
+	<h1>text</h1>
 </body>
 </html>
